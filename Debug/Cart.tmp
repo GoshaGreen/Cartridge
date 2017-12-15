@@ -1,0 +1,121 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m128def.inc</FILE>
+  <FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\macro.inc</FILE>
+  <FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE>
+  <FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\coreinit.inc</FILE>
+  <FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\procedures.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Debug/Cart.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Cart.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Cart.map</FILE>
+  <FILE>Cart.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>107</LINE></RESET>
+  <EXT_INT0><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>37</LINE></EXT_INT0>
+  <EXT_INT1><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>39</LINE></EXT_INT1>
+  <EXT_INT2><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>41</LINE></EXT_INT2>
+  <EXT_INT3><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>43</LINE></EXT_INT3>
+  <EXT_INT4><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>45</LINE></EXT_INT4>
+  <EXT_INT5><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>47</LINE></EXT_INT5>
+  <EXT_INT6><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>49</LINE></EXT_INT6>
+  <EXT_INT7><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>51</LINE></EXT_INT7>
+  <TIM2_COMP><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>53</LINE></TIM2_COMP>
+  <TIM2_OVF><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>55</LINE></TIM2_OVF>
+  <TIM1_CAPT><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>57</LINE></TIM1_CAPT>
+  <TIM1_COMPA><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>59</LINE></TIM1_COMPA>
+  <TIM1_COMPB><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>61</LINE></TIM1_COMPB>
+  <TIM1_OVF><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>63</LINE></TIM1_OVF>
+  <TIM0_COMP><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>65</LINE></TIM0_COMP>
+  <TIM0_OVF><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>67</LINE></TIM0_OVF>
+  <SPI_STC><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>69</LINE></SPI_STC>
+  <USART0_RXC><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>71</LINE></USART0_RXC>
+  <USART0_DRE><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>73</LINE></USART0_DRE>
+  <USART0_TXC><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>75</LINE></USART0_TXC>
+  <ADCHand><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>77</LINE></ADCHand>
+  <EE_RDY><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>79</LINE></EE_RDY>
+  <ANA_COMP><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>81</LINE></ANA_COMP>
+  <TIM1_COMPC><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>83</LINE></TIM1_COMPC>
+  <TIM3_CAPT><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>85</LINE></TIM3_CAPT>
+  <TIM3_COMPA><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>87</LINE></TIM3_COMPA>
+  <TIM3_COMPB><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>89</LINE></TIM3_COMPB>
+  <TIM3_COMPC><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>91</LINE></TIM3_COMPC>
+  <TIM3_OVF><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>93</LINE></TIM3_OVF>
+  <USART1_RXC><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>95</LINE></USART1_RXC>
+  <USART1_DRE><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>97</LINE></USART1_DRE>
+  <USART1_TXC><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>99</LINE></USART1_TXC>
+  <TWI><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>101</LINE></TWI>
+  <SPM_RDY><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\interrupts.inc</FILE><LINE>103</LINE></SPM_RDY>
+  <RAM_Flush><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\coreinit.inc</FILE><LINE>2</LINE></RAM_Flush>
+  <Flush><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\coreinit.inc</FILE><LINE>6</LINE></Flush>
+  <uart_init><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>30</LINE></uart_init>
+  <port_init><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>45</LINE></port_init>
+  <main><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>57</LINE></main>
+  <uart_rcv><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\procedures.inc</FILE><LINE>60</LINE></uart_rcv>
+  <fareads><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>101</LINE></fareads>
+  <fawriter><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>98</LINE></fawriter>
+  <readr><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>96</LINE></readr>
+  <writer><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>84</LINE></writer>
+  <settingsr><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>86</LINE></settingsr>
+  <infor><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>90</LINE></infor>
+  <testr><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>88</LINE></testr>
+  <quer><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>92</LINE></quer>
+  <eraser><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>94</LINE></eraser>
+  <uart_snt><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\procedures.inc</FILE><LINE>67</LINE></uart_snt>
+  <write><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>290</LINE></write>
+  <settings><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>362</LINE></settings>
+  <test><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>651</LINE></test>
+  <info><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>365</LINE></info>
+  <que><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>428</LINE></que>
+  <erase><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>529</LINE></erase>
+  <read><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>239</LINE></read>
+  <fawrite><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>155</LINE></fawrite>
+  <faread><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>106</LINE></faread>
+  <freadaddr><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>124</LINE></freadaddr>
+  <freadend><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>134</LINE></freadend>
+  <fwritedata><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>174</LINE></fwritedata>
+  <fwriteend><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>188</LINE></fwriteend>
+  <fwriteend1><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>196</LINE></fwriteend1>
+  <fwriteend2><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>236</LINE></fwriteend2>
+  <rSummChed><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>262</LINE></rSummChed>
+  <good_mode_read><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>270</LINE></good_mode_read>
+  <wSummChed><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>318</LINE></wSummChed>
+  <lbl1><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>337</LINE></lbl1>
+  <lbl2><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>344</LINE></lbl2>
+  <queq_r><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>444</LINE></queq_r>
+  <que_addr_r><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>446</LINE></que_addr_r>
+  <queq><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>450</LINE></queq>
+  <que_addr><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>489</LINE></que_addr>
+  <erase_bank><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>549</LINE></erase_bank>
+  <erase_chip_r><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>546</LINE></erase_chip_r>
+  <erase_chip><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>621</LINE></erase_chip>
+  <ebSummChed><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>572</LINE></ebSummChed>
+  <lbl3><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>597</LINE></lbl3>
+  <lbl4><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>604</LINE></lbl4>
+  <erase_chip_comm><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>633</LINE></erase_chip_comm>
+  <test_address_r><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>674</LINE></test_address_r>
+  <test_data_r><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>676</LINE></test_data_r>
+  <test_command_r><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>678</LINE></test_command_r>
+  <test_inc_r><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>680</LINE></test_inc_r>
+  <test_test_r><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>682</LINE></test_test_r>
+  <test_address><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>685</LINE></test_address>
+  <test_data><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>702</LINE></test_data>
+  <test_command><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>716</LINE></test_command>
+  <test_inc><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>728</LINE></test_inc>
+  <test_test><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\Cart\Cart\Cart.asm</FILE><LINE>739</LINE></test_test>
+ </LABELS>
+</ASSEMBLER_INFO>
